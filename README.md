@@ -1,2 +1,2 @@
 # pdf-meta-ui
-UI for PDF-Meta
+Reactjs UI for PDF-Meta
